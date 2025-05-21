@@ -11,8 +11,7 @@ A fully responsive front-end replica of Amazon’s homepage using only HTML and 
 - HTML5
 - CSS3 (Flexbox, Grid)
 
-## 📸 Preview
-> *(Add a screenshot here once hosted)*
 
 ## 🔗 Live Demo
-Will be available soon on GitHub Pages
+https://nikeeta7.github.io/amazon-clone-html-css/
+
