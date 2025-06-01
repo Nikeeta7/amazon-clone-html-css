@@ -46,6 +46,13 @@ amazon-clone-html-css/
 
 ---
 
+## screenshot
+
+![image](https://github.com/user-attachments/assets/91ffb181-d19a-43aa-842e-63c857500696)
+![image](https://github.com/user-attachments/assets/59e5597d-5059-4ae1-bbd3-44822780710c)
+![image](https://github.com/user-attachments/assets/a3f88f3a-3c60-47ad-a2b7-11f92e70e934)
+
+
 ## ✨ Credits
 
 Built with patience, passion, and lots of learning.  
