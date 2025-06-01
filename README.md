@@ -1,8 +1,12 @@
 # 🛍️ Amazon Clone (HTML + CSS)
 
 A fully responsive front-end replica of Amazon’s homepage built using **HTML** and **CSS**. This project replicates the core structure and design of Amazon's main interface, focusing on layout, responsiveness, and clean UI.
-
 ---
+
+## 🚀 Live Demo
+
+👉 [Click here to view the project live](https://nikeeta7.github.io/amazon-clone-html-css/)
+
 
 ## 🌟 Features
 
@@ -22,10 +26,6 @@ A fully responsive front-end replica of Amazon’s homepage built using **HTML**
 - 🌐 **GitHub Pages** – for live deployment
 
 ---
-
-## 🚀 Live Demo
-
-👉 [Click here to view the project live](https://nikeeta7.github.io/amazon-clone-html-css/)
 
 ## 📁 Folder Structure
 
